@@ -10,7 +10,7 @@ mockk = "1.13.5"
 gson = "2.10.1"
 retrofit = "2.9.0"
 okhttp = "4.11.0"
-kotlinpoet = "1.13.2"
+kotlinpoet = "1.14.2"
 
 redmadrobot = "0.18.1"
 
